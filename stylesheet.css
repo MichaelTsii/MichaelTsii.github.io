@@ -144,3 +144,8 @@ name {
 span.highlight {
   background-color: #ffffd0;
 }
+
+.news-metric {
+  color: red;
+  font-weight: 700;
+}
